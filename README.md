@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Install various dependencies for the project.
+Installs various dependencies for the project.
 
 ### `npm start`
 
@@ -24,8 +24,10 @@ You will also see any lint errors in the console.
 
 List of the various features that you can implements. You can apply any strategy you want:
 - Catch low hanging fruits
-- Make only 1 or 2 complicated one
+- Make only 1 or 2
 - Add and define others
+
+Please note, you have max 1h in total. Therefore, you have to choose which feature(s) you implement and which one you don't.
 
 ### *Select items*
 
