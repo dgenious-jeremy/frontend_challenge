@@ -1,0 +1,52 @@
+[
+    {
+        "name": "France",
+        "items": [
+            {
+                "name": "Toulouse",
+                "id": 31,
+                "amount": 10
+            },
+            {
+                "name": "Paris",
+                "id": 75,
+                "amount": 45
+            }
+        ]
+    },
+    {
+        "name": "Belgium",
+        "items": [
+            {
+                "name": "Brussels",
+                "id": 1000,
+                "amount": -2
+            },
+            {
+                "name": "Item 2.2",
+                "id": 4000,
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "Germany",
+        "items": [
+            {
+                "name": "Mainz",
+                "id": 55,
+                "amount": 3
+            },
+            {
+                "name": "Hamburg",
+                "id": 20,
+                "amount": -1
+            },
+            {
+                "name": "Berlin",
+                "id": 12,
+                "amount": 10
+            }
+        ]
+    }
+]
